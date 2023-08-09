@@ -3,7 +3,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 
 ## Introduction
 
-this game is a project based on `HTML,CSS,JAVASCRIPT` which generate random password according to user requirement and check the strength of password
+this game is a project based on `HTML,CSS,JAVASCRIPT` where you can play game for fun 
 
 
 ### Built With
