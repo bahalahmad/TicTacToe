@@ -12,7 +12,7 @@ this game is a project based on `HTML,CSS,JAVASCRIPT` which generate random pass
 * [CSS]<img src="images/stack/Javascript.svg" alt="" />
 * [JAVASCRIPT]<img src="images/stack/HTML.png" alt="" />
 ## Preview
-  [Link here](https://bahalahmad.github.io/PasswordGenerator/
+  [Link here](https://bahalahmad.github.io/TicTacToe/)
 ### Rules
 
 - Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
